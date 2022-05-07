@@ -1,4 +1,11 @@
-## Olá! Eu sou o Guilherme Sant'Ana 🖐️
+
+
+<img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
+<h1 align="left">Olá, <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30px"> eu sou Guilherme Sant'Ana <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EvanderInacio&color=blue" alt="Profile views" /> </p>
+
+<br>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsF0C2e_3zgN34m9u-p3fpQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alemao_santana01/)
